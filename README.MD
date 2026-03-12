@@ -144,6 +144,21 @@ USE AtliQ_Hotel_Bookings_DB;
 
 ---
 
+## 💡 Key Insights
+ 
+| # | Insight |
+|---|---------|
+| 1 | **Mumbai** generated the highest revenue among all cities |
+| 2 | **Luxury hotels** earned more total revenue than Business hotels |
+| 3 | **Weekend occupancy** was higher than weekday occupancy across all hotels |
+| 4 | **Premium rooms** had the lowest occupancy rate (overall 57.78 % ) — highest revenue loss per empty room |
+| 5 | **Cancellation rate** was ~25% — costing the business significant realized revenue |
+| 6 | **All booking platforms** had uniform cancellation rates between 24.30 % to 25 % |
+| 7 | **Revenue declined** month over month from May to July. From May to June Revenue Declined by 4.81 % and then from june to july increased by 3.34 % . But Overall Revenue is declined as compared to first month (May 2022) |
+| 8 | Several hotels were running **below 60% occupancy** — urgent attention needed across all cities|
+  
+---
+
 ## 🙏 Acknowledgements
 - **Dataset & Project Idea:** [Codebasics](https://codebasics.io) — Resume Project Challenge
 - **Project Link**: [AtliQ Grands Hospitality Revenue Insights](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)
