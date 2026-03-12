@@ -26,7 +26,7 @@
 ---
 
 ## 📌 Project Overview
-AtliQ Grands is a luxury hotel chain operating **15+ five-star properties** across India.
+AtliQ Grands is a luxury & Business hotel chain operating **20+ five-star properties** across India.
 This project analyzes **3 months of historical booking data** to uncover revenue loss,
 occupancy trends, cancellation patterns, and ADR/RevPAR performance across all properties.
 
@@ -144,12 +144,13 @@ USE AtliQ_Hotel_Bookings_DB;
 
 ## 📊 Live Power BI Dashboard
 🔗 **[View Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNjlkOTgwNjQtODJlMS00NzBmLWI2MjEtZjMxOWQ2OGFhNjg2IiwidCI6ImJmOGY3NjI3LTQ2MmQtNGFhMC1iMWVlLWNhMzc5ZDlhZTA3OCJ9)**
-> *(Replace the link above with your published Power BI report URL)*
+
 
 ---
 
 ## 🙏 Acknowledgements
 - **Dataset & Project Idea:** [Codebasics](https://codebasics.io) — Resume Project Challenge
+- **Project Link**: [AtliQ Grands Hospitality Revenue Insights](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)
 - **Domain Guidance:** Hospitality Revenue Management concepts (RevPAR, ADR, Occupancy %)
 - **Mentor Support:** Codebasics Community & Mentors
 
@@ -176,4 +177,4 @@ Thank you for stopping by! 🙌
 ```
 
 ---
-*© 2026 · Built with ❤️ by [Your Name]*
+*© 2026 · Built with ❤️ by BISWAJIT SASMAL*
