@@ -21,6 +21,24 @@
 
 ---
 
+---
+
+## 📚 Table of Contents
+
+1. [Project Overview](#-project-overview)
+2. [Problem Statement](#-problem-statement)
+3. [Project Tasks](#-project-tasks)
+4. [Tools & Technology](#-tools--technology)
+5. [Project File Structure](#-project-file-structure)
+6. [How to Run This Project](#-how-to-run-this-project)
+7. [Live Power BI Dashboard](#-live-power-bi-dashboard)
+8. [Key Insights](#-key-insights)
+9. [Acknowledgements](#-acknowledgements)
+10. [Connect With Me](#-connect-with-me)
+11. [Thank You](#-thank-you)
+
+---
+
 ## 📌 Project Overview
 AtliQ Grands is a luxury & Business hotel chain operating **20+ five-star properties** across India.
 This project analyzes **3 months of historical booking data** to uncover revenue loss,
